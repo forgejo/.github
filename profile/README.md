@@ -11,3 +11,8 @@ More information, FAQs, links to socials, etc can be found on [our website](http
 
 See you over there!
 
+<div align="center">
+	<a href="https://codeberg.org/forgejo">
+		<img src="./codeberg-badge.svg" width="192" />
+	</a>
+</div>
