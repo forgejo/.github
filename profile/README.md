@@ -1,4 +1,7 @@
-# Forgejo - Beyond coding. We forge
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/118922216?s=200&v=4" alt="" width="128" align="center" />
+    <h1 align="center">Forgejo - Beyond coding. We forge.</h1>
+</div>
 
 You've found us - well, sort of...
 
